@@ -1,4 +1,5 @@
-# vue-tailwind-starter
+# Vue & Tailwind Starter
+I keep forgetting the steps to set this up so I made this to remind myself. 
 
 ## Project setup
 ```
